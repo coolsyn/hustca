@@ -551,13 +551,10 @@ Intro Section
 	text-align: center;
 	flex-wrap: wrap;
 }
-.left{
-	flex:1;
-}
+
+.mid,
+.left,
 .right{
-	flex:1;
-}
-.mid{
 	flex:1;
 }
 .main a:hover{
